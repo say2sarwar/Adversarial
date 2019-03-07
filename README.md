@@ -9,3 +9,7 @@
 [Audio Adversarial Examples: Targeted Attacks on Speech-to-Text](https://arxiv.org/abs/1801.01944)
 
 [Adversarial Attacks Against Automatic SpeechRecognition Systems via Psychoacoustic Hiding](https://arxiv.org/pdf/1808.05665.pdf)
+
+[Who's Afraid of Adversarial Queries?](https://arxiv.org/abs/1901.10332)
+
+[PixelDefend ICLR 2018](https://arxiv.org/abs/1710.10766)
