@@ -16,6 +16,8 @@
 
 [Fooling End-to-end Speaker Verification by Adversarial Examples](https://arxiv.org/abs/1801.03339)
 
+[Feature Squeezing NDSS 2018](https://arxiv.org/abs/1704.01155)
+
 
 # Tutorial
 
