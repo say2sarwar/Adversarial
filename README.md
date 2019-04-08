@@ -27,5 +27,7 @@
 
 [Adversarial Machine Learning](http://research.ibm.com/labs/ireland/nemesis2018/pdf/tutorial.pdf)
 
+[Paper Track](https://github.com/vikramnitin9/adversarial-learning-literature)
+
 
 # Videos Talk
