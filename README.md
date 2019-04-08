@@ -19,7 +19,7 @@
 [Feature Squeezing NDSS 2018](https://arxiv.org/abs/1704.01155)
 
 
-[CW Attacks](https://arxiv.org/abs/1608.04644?context=cs)https://arxiv.org/abs/1608.04644?context=cs
+[CW Attacks](https://arxiv.org/abs/1608.04644?context=cs)
 
 # Tutorial
 
